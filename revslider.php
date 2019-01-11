@@ -1,11 +1,9 @@
 <?php
 /*
-Plugin Name: Slider Revolution
-Plugin URI: http://revolution.themepunch.com/
-Description: Slider Revolution - Premium responsive slider
-Author: ThemePunch
-Version: 5.4.6.2
-Author URI: http://themepunch.com
+Plugin Name: Content Slider
+Description: Content Slider Revolution
+Author: Ilia
+Version: 1.0.0
 */
 
 // If this file is called directly, abort.
